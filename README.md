@@ -1,5 +1,5 @@
-# Template Python
-A template repository
+# Learned Bayesian Cram\'er-Rao Bound
+Code and details will be available soon
 
 ## Installation
 ```bash
